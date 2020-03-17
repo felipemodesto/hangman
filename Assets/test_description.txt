@@ -1,0 +1,26 @@
+Create a the word game "Hangman".
+
+Gameplay:
+[X] - a start screen with the rules and a start button appears
+[X] - when the player clicks the start button, the game starts and a hidden word appears on the screen
+[X] - the player has to guess the hidden random word
+[X] - the player has to press letters in a virtual keyboard below the word
+[X] - every click on a button plays a click sound
+[X] - if the letter is correct, it will appear on the screen
+[X] - if the letter is wrong, a gallow element appears
+[X] - after 7 mistakes the game is over, the looses count increases, a game over screen appears and the loose sound is played
+[X] - if the player finishes the word, the win count increases, the win screen appears, the win sound is played and the player can continue to guess the next word
+
+Details:
+[X] - use the sounds or own sound files
+[X] - use the given graphics or be creative and use your own
+[X] - don't forget to keep performance in mind (memory leaks, texture atlas)
+[X] - word list should be loaded from an external file
+[X] - use any library, plugin or tool you need
+[X] - a runnable game and the complete project has to be delivered as a zip
+[X] - the game should be playable on Android and iOS powered devices
+
+Bonus:
+[X] - only possible letters should be enabled to click
+[ ] - nice looking UI and screen backgrounds
+[ ] - animations

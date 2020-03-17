@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5050a4ad6ef8be44991923af91c883a, type: 3}
+  m_Name: QuertyKeyboardLayout
+  m_EditorClassIdentifier: 
+  rowList:
+  - characterList: 710077006500720074007900750069006f007000
+  - characterList: 6100730064006600670068006a006b006c00
+  - characterList: 7a0078006300760062006e006d00
